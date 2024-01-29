@@ -24,6 +24,6 @@ After configure the USER **Task.json** and the **variable** you just need to go 
 ---
 <div style="display:flex; justify-content: center;align-items:center">
 
-<p1>Dont ask me why the code is in Portuguese and the other things are in English... I also dont now why this.</p1>
+<p1>Dont ask me why some things is in Portuguese and the other things are in English... I also dont now why i do this.</p1>
 
 </div>

@@ -7,7 +7,7 @@ Do a simply repository clone and certify to install the dependencies, **if your 
 - **All Dependencies:** `Psutil` , `Time` , `Json` , `Datetime`.
 
 ### How to Use
-Its simple. In your VsCode, go on ``"..."`` -> ``"Terminal"`` -> ``"Configure Default Build Task..."``</br>  And certify that you are in the **USER**  **"Task.json"**. After this, just copy and past the code in the <a href = ".//SampleCode" > "SampleCode.txt" <a> CERTIFY that the variable of the **main  line 6** is correct !
+Its simple. In your VsCode, go on ``"..."`` -> ``"Terminal"`` -> ``"Configure Default Build Task..."``</br>  And certify that you are in the **USER**  **"Task.json"**. After this, just copy and past the code in the <a href = "https://github.com/Isaac4lves/TempoCodando/blob/main/SampleCode.txt" > "SampleCode.txt" <a> CERTIFY that the variable of the **main  line 6** is correct !
  </br>
 After configure the USER **Task.json** and the **variable** you just need to go in the Search and click in **Run Task** to start the counter.
 

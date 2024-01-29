@@ -18,6 +18,7 @@ After configure the USER **Task.json** and the **variable** you just need to go 
 
 ## Unfinished Features
 - At the end of the week calculate the average.
+- Make a Better README😭
 
 </br>
 
